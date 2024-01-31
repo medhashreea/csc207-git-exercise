@@ -3,7 +3,7 @@ public class HelloWorld {
     java.io.PrintWriter pen;
 
     pen = new java.io.PrintWriter(System.out, true);
-    pen.println ("Hello, GitHub!");
+    pen.println ("Hello, World!");
     pen.flush();
   } // main(String[])
 } // class First
